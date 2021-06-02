@@ -6,7 +6,7 @@
     <entry key="DATABASE">sik_2017</entry>
     <entry key="PORT">3306</entry>
     <entry key="USER">root</entry>
-    <entry key="PAS">basoro</entry>
+    <entry key="PAS"></entry>
     <entry key="CARICEPAT">nonaktif</entry>
     <entry key="HOSTHYBRIDWEB">localhost</entry>
     <entry key="HYBRIDWEB">webapps</entry>
@@ -40,5 +40,5 @@
     <entry key="URLAPISISRUTE">https://api.sisrute.kemkes.go.id</entry>
     <entry key="IDSISRUTE">7303010</entry>
     <entry key="PASSSISRUTE">12345</entry>
-    <entry key="AUTOUPDATESISTEM">aktif</entry> <!--no:aktif-->
+    <entry key="AUTOUPDATESISTEM">no</entry> <!--no:aktif-->
 </properties>
